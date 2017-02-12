@@ -44,11 +44,11 @@ NOTE: For the analysis corresponding to Fig 3, we have used build-in functions o
 
 2) Rainfall data is available from Dr Michael Coughenour (Michael.Coughenour@colostate.edu).
 
-###Contact us
-For any queries, contact guttal@ces.iisc.ernet.in
-
 ###Reference
 Stephanie Eby*, Amit Agrawal*, Sabiha Majumder, Andew Dobson and Vishwesha Guttal, 2017, Alternative stable states and spatial indicators of critical slowing down along a spatial gradient in a savanna ecosystem,  Global Ecology and Biogeography, DOI: http://dx.doi.org/10.1111/geb.12570 (*These authors contributed equally to this work).
 
 ###Blogpost
 Here is a blogpost on our lab website on this article: https://goo.gl/EyHoSK
+
+###Contact us
+For any queries, contact Vishwesha Guttal (guttal@ces.iisc.ernet.in)
