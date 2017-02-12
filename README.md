@@ -5,7 +5,7 @@ date: "11/22/2016"
 output: html_document
 ---
 
-##Codes and Data for Eby et al, GEB, in revision.
+##Codes and Data for "Alternative stable states and spatial indicators of critical slowing down along a spatial gradient in a savanna ecosystem", 2017, GEB (DOI: http://dx.doi.org/10.1111/geb.12570)
 
 ###Codes
 
@@ -46,3 +46,9 @@ NOTE: For the analysis corresponding to Fig 3, we have used build-in functions o
 
 ###Contact us
 For any queries, contact guttal@ces.iisc.ernet.in
+
+###Reference
+Stephanie Eby*, Amit Agrawal*, Sabiha Majumder, Andew Dobson and Vishwesha Guttal, 2017, Alternative stable states and spatial indicators of critical slowing down along a spatial gradient in a savanna ecosystem,  Global Ecology and Biogeography, DOI: http://dx.doi.org/10.1111/geb.12570 (*These authors contributed equally to this work).
+
+###Blogpost
+Here is a blogpost on our lab website on this article: https://goo.gl/EyHoSK
